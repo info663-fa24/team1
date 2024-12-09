@@ -1,5 +1,15 @@
 field,display_name
 title,Title
-date,Date
+work_type,Work Type
+creator,Creator
+vocabularies_creator,Source Vocabulary
+date_created,Date Created
+dimensions,Dimensions
+location,Location
+vocabularies_location,Source Vocabulary
 description,Description
+provenance,Provenance Information
+citation,Berenson Citation
 subject,Subjects
+vocabularies_subject,Source Vocabulary
+related_paintings,Related Works
