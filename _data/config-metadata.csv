@@ -2,16 +2,16 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,true,,DCTERMS.title,headline
 work_type,Work Type,,,DCTERMS.medium,
 creator,Creator,true,,DCTERMS.creator,creator
-vocabularies_creator,Source Vocabulary,,,,
+vocabularies_creator,Creator Source Vocabulary,,,,
 date_created,Date Created,,,DCTERMS.date,dateCreated
 dimensions,Dimensions,,,DCTERMS.format,
 location,Location,,,,contentLocation
-vocabularies_location,Source Vocabulary,,,,
+vocabularies_location,Location Source Vocabulary,,,,
 description,Description,,,DCTERMS.description,description
 provenance,Provenance Information,,,DCTERMS.provenance,description
 citation,Berenson Citation,,,DCTERMS.references,citation
 subject,Subjects,true,,DCTERMS.subject,keywords
-vocabularies_subject,Source Vocabulary,,,,
+vocabularies_subject,Subjects Source Vocabulary,,,,
 related_paintings,Related Works,,true,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
