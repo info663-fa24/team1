@@ -1,12 +1,17 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
-title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
+title,Title,true,,DCTERMS.title,headline
+work_type,Work Type,,,DCTERMS.medium,
+creator,Creator,true,,DCTERMS.creator,creator
+vocabularies_creator,Source Vocabulary,,,,
+date_created,Date Created,,,DCTERMS.date,dateCreated
+dimensions,Dimensions,,,DCTERMS.format,
 location,Location,,,,contentLocation
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
+vocabularies_location,Source Vocabulary,,,,
+description,Description,,,DCTERMS.description,description
+provenance,Provenance Information,,,DCTERMS.provenance,description
+citation,Berenson Citation,,,DCTERMS.references,citation
+subject,Subjects,true,,DCTERMS.subject,keywords
+vocabularies_subject,Source Vocabulary,,,,
+related_paintings,Related Works,,true,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
