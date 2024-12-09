@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About the Lost Paintings of the Renaissance
+## About this project
 
 This collection features items from the I Tatti Center for Italian Renaissance Study's [Homeless Paintings of the Italian Renaissance Collections](https://itatti.harvard.edu/berenson-library/collections/photograph-archives/homeless-paintings), contextualized with new metadata created by Team 1 for the Metadata Design course at the [Pratt Institute School of Information](https://www.pratt.edu/information/) and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
