@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="https://info663-fa24.github.io/team1/objects/109842_1_45942556.jpg" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
@@ -27,7 +27,7 @@ The resulting static site can be hosted on any basic web server.
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
-{% raw %}{% include feature/image.html objectid="i_0005" width="75" %}{% endraw %}
+{% raw %}{% include feature/image.html objectid="https://info663-fa24.github.io/team1/objects/109842_1_45942556_sm.jpg" width="75" %}{% endraw %}
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
