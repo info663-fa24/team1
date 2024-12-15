@@ -12,6 +12,6 @@ provenance,Provenance Information,,,DCTERMS.provenance,description
 citation,Berenson Citation,,,DCTERMS.references,citation
 subject,Subjects,true,,DCTERMS.subject,keywords
 vocabularies_subject,Subjects Source Vocabulary,,,,
-related_paintings,Related Works,,true,,
+related_paintings,Related Works,,,,
 format,Format,,,,encodingFormat
 rightsstatement,,,,DCTERMS.rights,license
