@@ -16,4 +16,3 @@ credits: true
 
 This collection features items from the I Tatti Center for Italian Renaissance Study's [Homeless Paintings of the Italian Renaissance Collections](https://itatti.harvard.edu/berenson-library/collections/photograph-archives/homeless-paintings), contextualized with new metadata created by Team 1 for the Metadata Design course at the [Pratt Institute School of Information](https://www.pratt.edu/information/) and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
-{% raw %}{% include feature/image.html objectid="https://info663-fa24.github.io/team1/objects/109842_1_45942556_sm.jpg" width="75" %}{% endraw %}
