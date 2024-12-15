@@ -7,12 +7,10 @@ layout: page
   <div class="col-md-8">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="Collection Items" %}
+    {% include index/carousel.html title="Collection Items" height=450 filter.field="work_type" filter.value="photographic prints" %}
     
   </div>
   <div class="col-md-4">  
-
-    {% include index/time.html %}
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
 
