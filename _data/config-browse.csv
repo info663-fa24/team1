@@ -2,4 +2,3 @@ field,display_name,btn,hidden,sort_name
 title,Title,,,Title
 creator,Creator,,,Creator
 subject,Subjects,,,
-location,Locations,,true,
